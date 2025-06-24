@@ -1,4 +1,4 @@
-C-- Create the database
+-- Create the database
 CREATE DATABASE IF NOT EXISTS student_db;
 USE student_db;
 
